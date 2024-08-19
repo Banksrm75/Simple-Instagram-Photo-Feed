@@ -1,0 +1,105 @@
+body {
+    background: lightgrey;
+}
+
+.outerWrapper {
+    background-color: white;
+    margin-top: 20px;
+    margin: auto;
+    padding-top: 6px;
+    width: 500px;
+    height: 500px;
+        
+}
+
+.Box {
+    background: lightgrey;
+	position: relative;
+    height: 630px;
+    width: 500px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+
+.Header {
+    background-color: white ;
+    position: relative;
+    height: 50px;
+    width: 500px;
+    margin-top: 2px;
+    
+   
+}
+
+.Title {
+    position: absolute;
+    margin-top: 0;
+    
+    height: 30px;
+    width: 80%;
+    text-align: left;
+
+    padding-top: 6px;
+    padding-left: 10px;
+    padding-bottom: 6px;
+    
+}
+
+.Top-Right {
+    position: absolute;
+    color: gray;
+    margin-top: 7px;
+    margin-left: 80%;
+    height: 30px;
+    width: 20%;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.PhotoBox {
+    background-color: white;
+    position: relative;
+    height: 500px;
+	width: 500px;
+}
+    
+img {
+    position: absolute;
+    max-height: 500px;
+    max-width: 500px;
+}
+
+.Footer {
+    background-color: white ;
+    position: relative;
+    height: 60px;
+    max-width: 500px;
+    margin-bottom: 2px;
+    
+    padding-top: 6px;
+    padding-left: 10px;
+    padding-bottom: 6px;
+}
+
+.Description {
+    position: absolute;
+    height: 30px;
+    max-width: 500px;
+    margin-top: 0;
+    text-align: left;
+
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 6px;
+    
+    
+    
+} 
+
+strong {
+    font-weight: bolder ;
+}
+
+
